@@ -1,4 +1,4 @@
-# Sales and Financial Analytics in Excel
+ # Sales and Financial Analytics in Excel
 ##  Problem Statement: 
 AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mice, and 
 computers with a global reach, faces the challenge of optimizing sales and improving 
